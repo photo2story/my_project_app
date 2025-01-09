@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const DashboardScreen(),
+      home: DashboardScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
